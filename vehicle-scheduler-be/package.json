@@ -1,0 +1,24 @@
+{
+  "name": "a23126552225",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poojitha1603/A23126552225.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poojitha1603/A23126552225/issues"
+  },
+  "homepage": "https://github.com/poojitha1603/A23126552225#readme",
+  "dependencies": {
+    "axios": "^1.18.1",
+    "dotenv": "^17.4.2"
+  },
+  "description": ""
+}
